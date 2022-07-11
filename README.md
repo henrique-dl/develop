@@ -9,10 +9,6 @@
 - cd teste-tecnico-writ/backend
 - cp .env.example .env
 
-# Atualizar variáveis de ambiente
-APP_NAME=teste-tecnico-writ
-APP_URL=http://localhost:8000
-
 # Atualizar conexão com banco
 
 DB_CONNECTION=mysql<br/>
@@ -108,7 +104,7 @@ DB_PASSWORD=<br/>
 OBS: Algumas telas possuem somente navegação e layout, outras possuem funcionalidades conectadas ao backend
 
 # Setup do projeto
-- cd teste-tecnico-writ/frontend
+- cd develop/frontend
 - npm install
 - npm run dev
 
