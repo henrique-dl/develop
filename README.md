@@ -6,8 +6,6 @@
 </h4>
 <hr>
 
-# OBS: Caso preferir, importe o arquivo Insomnia_writ.json no seu aplicativo Insominia para testar as requisições abaixo
-
 # Setup projeto
 - git clone https://github.com/henrique-dl/teste-tecnico-writ.git
 - cd teste-tecnico-writ/backend
