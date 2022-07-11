@@ -5,7 +5,7 @@
 <hr>
 
 # Setup projeto
-- git clone https://github.com/henrique-dl/teste-tecnico-writ.git
+- git clone https://github.com/henrique-dl/develop.git
 - cd teste-tecnico-writ/backend
 - cp .env.example .env
 
