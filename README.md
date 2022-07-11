@@ -1,5 +1,3 @@
-# Teste técnico WR IT
-
 <hr>
 <h4 align="center">
   Backend - Php Laravel 9
